@@ -1,0 +1,10 @@
+{
+  "client_id": "https://your-hosting-url.com/mcp-client.json",
+  "client_name": "MCP Test Client",
+  "redirect_uris": [
+    "http://localhost:5173/callback"
+  ],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
