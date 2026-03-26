@@ -1,5 +1,5 @@
 {
-  "client_id": "https://your-hosting-url.com/mcp-client.json",
+  "client_id": "https://raw.githubusercontent.com/msharma108/cimd-test/main/mcp-client.json",
   "client_name": "MCP Test Client",
   "redirect_uris": [
     "http://localhost:5173/callback"
